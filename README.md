@@ -1,0 +1,33 @@
+problema/soluzione preparare la lasagna
+
+-controllare gli ingredienti
+-?SE abbiamo gli ingredienti cuciniamo
+  -:ALTRIMENTI compriamo gli ingredienti
+-facciamo la lista della spesa
+-andiamo al supermercato
+-acquistiamo gli ingredienti
+-torniamo a casa
+-prindiamo la pentola
+-riempiamo d'acqua la pentola
+-la mettiamo sul fornello
+-accendiamo il fornello
+-aspettiamo che l'acqua bolle
+-aggiungiamo il sale
+-prendere un'altra pentola
+-la mettiamo sul fornello
+-accendiamo il fornello
+-aggiungiamo il macinato
+-aggiungiamo la passata di pomodoro
+-aggiungiamo olio
+-aggiungiamo carote
+-quando l'acqua bolle aggiungiamo la pasta 
+-impostiamo un timer di cottura 15 minuti
+-quando scatta il timer assagiamo la pasta
+-? SE la pasta è cotta la tiriamo fuori 
+  -:ALTRIMENTI la lasciamo cuocere per 2 minuti
+-scoliamo la pasta
+-uniamo il condimento alla pasta
+-inpiattiamo
+-prendiamo le posate
+-mangiamo
+
